@@ -39,6 +39,7 @@ Tools and platforms for generating text, code, media, and structured content.
 - [Cohere](https://cohere.com/) — Platform for text generation, embeddings, and classification.
 - [Hugging Face Transformers](https://github.com/huggingface/transformers) — Library for running and fine-tuning language models.
 - [Replicate](https://replicate.com/) — Platform for running and deploying AI models via API.
+- [CreatorSkills](https://creatorskills.co) — Marketplace of 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
 
 ## Transformation & Enrichment
 
